@@ -43,10 +43,25 @@ Este proyecto consiste en un sistema básico para gestionar vuelos y pasajeros. 
 El programa inicializa una lista de pasajeros y vuelos, muestra los existentes y permite al usuario crear nuevos pasajeros o vuelos. Se utilizan `ArrayList` para almacenar múltiples objetos y se permite al usuario interactuar con el sistema mediante un menú simple.
 
 ### Cómo Ejecutar el Proyecto
++ el main, crea a unos pasajeros con defecto, colocandolos en la clase pasajeros, con sus atributos especificos, como apellido, nombre etc:
++ .
++ ![image](https://github.com/user-attachments/assets/5bee23fe-725f-417d-9d00-58d6a725dd96)
 
-1. Clona el repositorio en tu máquina local.
-2. Asegúrate de tener Java instalado.
-3. Compila y ejecuta el archivo `Main.java`.
++.
++ Despues el codigo da la opcion de crear nuevos pasajeros, u vuelos, en este caso de pasajeros preguntara: 
++ .
++ ![image](https://github.com/user-attachments/assets/cd838fb4-1fb3-4566-9be1-4e4bc0c6578f)
++  .
++  y en consolo se imprime, solo nombre, apellido, y pasaporte del pasajero, por vuelo.
++ .
++ ![image](https://github.com/user-attachments/assets/e9d6fc95-305b-44a5-bb76-9f84f32a5bbb)
++  .
++  ahora compilalo:
+
+
+1. Compila y ejecuta el archivo, al descargar los archivos pasajeros. java y vuelo.java, y `Main.java`, y compila este mismo.
+
+
 
 ## Conclusión
 
